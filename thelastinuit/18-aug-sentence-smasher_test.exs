@@ -1,4 +1,4 @@
-Code.load_file("sentence-smasher.exs", __DIR__)
+Code.load_file("18-aug-sentence-smasher.exs", __DIR__)
 
 ExUnit.start
 ExUnit.configure trace: true, exclude: :pending

@@ -1,4 +1,4 @@
-Code.load_file("rock_paper_scissors.exs", __DIR__)
+Code.load_file("17-aug-rock_paper_scissors.exs", __DIR__)
 
 ExUnit.start
 ExUnit.configure trace: true, exclude: :pending
